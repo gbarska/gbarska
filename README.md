@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, welcome to my Github
+####  
+![ ](https://raw.githubusercontent.com/gbarska/gbarska.github.io/main/github-banner.png)
 
-<!--
-**gbarska/gbarska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a lifelong learner, computer enthusiastic, software developer, languages lover and curious maker. I love learning new technologies, solving problems and creating new solutions. I also enjoy to help the community.
 
-Here are some ideas to get you started:
+Skills: ANGULAR / .NET/ JS / HTML / CSS / DOCKER / AWS / AZURE 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+Check out my social pages:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gbarska)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gustavo-barska//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gbarska.cf/about/)  
+
