@@ -2,7 +2,7 @@
 ####  
 ![ ](https://raw.githubusercontent.com/gbarska/gbarska.github.io/main/github-banner.png)
 
-I am a lifelong learner, computer enthusiastic, software developer, languages lover and curious maker. I love learning new technologies, solving problems and creating new solutions. I also enjoy to help the community.
+I am a lifelong learner, computer enthusiastic, software engineer, languages lover and curious maker. I love learning new technologies, solving problems and creating new solutions. I also enjoy to help the community.
 
 Skills: ANGULAR / .NET/ JS / HTML / CSS / DOCKER / AWS / AZURE 
 
