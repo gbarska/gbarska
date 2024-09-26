@@ -48,9 +48,12 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://medium.com/@gustavo.barska"><img src="https://res.cloudinary.com/dunaqrzuv/image/upload/v1727364123/km04vg65bhqiyzulbmhb.png"/></a>
-<a href="https://www.linkedin.com/in/gustavo-barska"><img src="https://res.cloudinary.com/dunaqrzuv/image/upload/v1727364123/lbe3pzkf0ulwnxrpacmg.png"/></a>
-
+<a href="https://medium.com/@gustavo.barska">
+  <img src="https://res.cloudinary.com/dunaqrzuv/image/upload/v1727364123/km04vg65bhqiyzulbmhb.png" width="100" height="100"/>
+</a>
+<a href="https://www.linkedin.com/in/gustavo-barska">
+  <img src="https://res.cloudinary.com/dunaqrzuv/image/upload/v1727364123/lbe3pzkf0ulwnxrpacmg.png" width="100" height="100"/>
+</a>
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
