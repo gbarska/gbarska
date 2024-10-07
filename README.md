@@ -6,6 +6,8 @@
 
 - 🤔 &nbsp; Full Stack Software Developer with over 9 years experience in building and maintaining distributed systems in critical environments and highly available solutions.
 
+- 🤔 &nbsp; My primary stack includes .NET with C# for backend development and Angular with Typescript for frontend development. I’m experienced with databases such as SQL Server, PostgreSQL, MySQL, and MongoDB. 
+
 
 ### 🛠 &nbsp;Tech Stack
 
