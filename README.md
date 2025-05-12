@@ -4,12 +4,15 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Full Stack Software Developer with over 9 years experience in building and maintaining distributed systems in critical environments and highly available solutions.
+- As a Full Stack Engineer with over nine years of experience, I am specialized in building and maintaining highly available distributed systems within critical financial environments.
 
-- 🤔 &nbsp; My primary stack includes .NET with C# for backend development and Angular with Typescript for frontend development. I’m experienced with databases such as SQL Server, PostgreSQL, MySQL, and MongoDB. 
+- I have a strong background in backend development using .NET (C#), leveraging SOLID and DDD principles to develop robust backend solutions as well as extensive experience with SQL Server, PostgreSQL, MongoDB, and cloud platforms like Azure.
 
+- On the frontend, I am specialized in the JavaScript ecosystem, building modern and scalable applications with Angular and React. I am experienced with state management solutions like NgRx, Redux, Vuex, React Hooks, reactive programming, RxJS and server-side rendering with Next.js.
 
-### 🛠 &nbsp;Tech Stack
+- Experience with NHibernate, Entity Framework, Dapper, worker services, background tasks, Quartz.NET, Hangfire, REST APIs, RabbitMQ, Kafka, batch processing, publishers/consumers, microservices and real-time applications with SignalR.
+- 
+### 🛠 &nbsp;Tech Stacks
 
 - 🌐 &nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
