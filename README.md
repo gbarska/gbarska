@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-## I'm Barska.
-
 ### 💻 &nbsp;About Me 
 
-- As a Full Stack Engineer with over nine years of experience, I am specialized in building and maintaining highly available distributed systems within critical financial environments.
+- Versatile and results-driven Software Engineer with over 9 years of experience delivering robust, scalable, and secure distributed systems in critical environments such as banking, investment, pharmaceutical, and global gametech industries. Strong expertise in .NET (Core to 8), C#, WebAPI, and microservices architecture.
 
-- I have a strong background in backend development using .NET (C#), leveraging SOLID and DDD principles to develop robust backend solutions as well as extensive experience with SQL Server, PostgreSQL, MongoDB, and cloud platforms like Azure.
+- Specialized in the JavaScript ecosystem building modern and scalable frontend applications with frameworks like Angular (up to v16), Vue 3, and React. Experienced with reactive programming, RxJS, SSR and state management solutions like NgRx, Redux, Vuex.
 
-- On the frontend, I am specialized in the JavaScript ecosystem, building modern and scalable applications with Angular and React. I am experienced with state management solutions like NgRx, Redux, Vuex, React Hooks, reactive programming, RxJS and server-side rendering with Next.js.
+- Proficient in integrating and securing systems using IAM standards, including OAuth, Microsoft LDAP, OIDC, MFA, and SSO protocols, and implementing centralized authentication with Keycloak and Kong to streamline access and enforce role-based authorization across enterprise applications.
 
-- Experience with NHibernate, Entity Framework, Dapper, worker services, background tasks, Quartz.NET, Hangfire, REST APIs, RabbitMQ, Kafka, batch processing, publishers/consumers, microservices and real-time applications with SignalR.
-- 
+- Skilled in system orchestration with Docker, OpenShift, and Azure, with solid DevOps experience using GitHub Actions and Jenkins. Extensive use of observability stacks (Grafana, Prometheus, Loki, Splunk) and event-driven communication via Kafka and RabbitMQ. Experienced with relational and NoSQL databases, including SQL Server, PostgreSQL, Redis, and MongoDB.
+
+-  Consistently led modernization efforts from legacy system migration to secure microservices deployment enhancing maintainability, reducing infrastructure costs, and improving end-user satisfaction. Recognized for strong collaboration in global, cross-functional teams and a security-first mindset, making a significant impact on operational excellence and system resilienc
+
 ### 🛠 &nbsp;Tech Stacks
 
 - 🌐 &nbsp;
